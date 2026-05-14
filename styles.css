@@ -1,0 +1,28 @@
+body{
+    background-color: #ffeef5;
+    font-family: Arial;
+}
+
+.login-box{
+    background-color: white;
+    width: 320px;
+    padding: 25px;
+    border-radius: 15px;
+}
+
+h1{
+    color: #ff99bb;
+}
+
+.form-control{
+    border: 1px solid #ffccddee;
+}
+
+.btn-primary{
+    background-color: #ffb6c1;
+    border: none;
+}
+
+.btn-primary:hover{
+    background-color: #ff9eb5;
+}
